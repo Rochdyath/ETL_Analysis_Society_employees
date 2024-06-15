@@ -1,5 +1,11 @@
 # ETL_Analysis_Society_employees
-Description
+Il s'agit ici de lire les documents dans le dossier data afin de les traiter pour répondre à certaines préocupations.
+1. Budget par département,
+2. Salaire moyen par département
+3. Représentativité des genres par département,
+4. Est-ce qu’il y a une égalité des salaires entre hommes est femmes, justifiez votre réponse ?
+
+Les résultats seront ensuite stockés dans ./dest_data/society_analysis.xlsx
 
 
 # Intructions d'installation
